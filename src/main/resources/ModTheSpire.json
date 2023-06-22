@@ -1,0 +1,10 @@
+{
+  "modid": "Diverse",
+  "name": "Diverse",
+  "author_list": ["NightBlade9"],
+  "description": "Adds the Diverse modifier to your runs. This is similar to starting with the Prismatic Shard, and a random deck of 50 cards of every colour.",
+  "version": "1.0.0",
+  "sts_version": "07-05-2019",
+  "mts_version": "2.6.0",
+  "dependencies": ["basemod"]
+}
