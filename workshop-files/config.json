@@ -1,17 +1,17 @@
 {
-  "steamPublishedID": "2986743516",
+  "steamPublishedID": "2992811719",
   "title": "Flight",
-  "description": "Slay the Spire mod that adds the Flight modifier to your runs. This is similar to starting with the Prismatic Shard, and a random deck of 50 cards of every colour.",
+  "description": "Slay the Spire mod that adds the Flight modifier to your runs. This is similar to starting with the Rocket Boots item, but infinite.",
   "visibility": "public",
   "changeNote": "",
   "tags": [
     "Deen Games",
     "deengames",
     "flight",
+    "boots",
+    "rocket boots",
     "modifier",
     "custom modifier",
-    "prismatic",
-    "shard",
-    "prismatic shard"
+    "easy"
   ]
 }

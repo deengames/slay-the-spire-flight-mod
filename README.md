@@ -6,7 +6,7 @@ Starts the game with the Flight custom modifier, which allows you to get cards o
 
 # Installation Instructions
 
-[Download from Steam Workshop]().
+[Download from Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2992811719).
 
 # Development Setup
 
