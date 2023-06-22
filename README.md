@@ -1,12 +1,12 @@
-# Slay The Spire: Diverse
+# Slay The Spire: Flight
 
 ![](media/screenshot.png)
 
-Starts the game with the Diverse custom modifier, which allows you to get cards of any colour.
+Starts the game with the Flight custom modifier, which allows you to get cards of any colour.
 
 # Installation Instructions
 
-[Download from Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2986743516).
+[Download from Steam Workshop]().
 
 # Development Setup
 
